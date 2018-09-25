@@ -1,11 +1,16 @@
 _repo: The-Isle-of-Vanishing-Men-A-Narrative-of-Adventure-in-Cannibal-land_57881
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57881-h/images/cover.jpg
 creator:
   author:
     agent_name: Alder, W. F.
     gutenberg_agent_id: '49669'
     url: http://www.gutenberg.org/2009/agents/49669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57881#The-Isle-of-Vanishing-Men-A-Narrative-of-Adventure-in-Cannibal-land
 gutenberg_issued: '2018-09-09'
 gutenberg_type: Text
 identifiers:
